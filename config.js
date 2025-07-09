@@ -1,19 +1,17 @@
 const CONFIG = {
-    titleWeb: "Gửi tlinhh của tớ",
-    introTitle: 'tlinhh yêu dấu',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Thoát web là chấp nhận yêu tớ rồi nhé!!!',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 8 tỉ người mà sao tinhh lại yêu mình <3',
+    titleWeb: "Gửi người mới nhâ!!",
+    introTitle: ' ấy oiii',
+    introDesc: `trên đời này rất nhìu thứ vui chờ ta,ta ko nên mãi 1 người
+    mà cứ buon v đc`,
+    btnIntro: '^^Hẹ hẹ^^',
+    title: 'neen là ko gi phải buon vì có Bảo là vui ne:))',
+    desc: 'Thoát web là không đc buồn nữa nhé!!!',
+    btnYes: 'Hứa với Bảo',
+    btnNo: 'Không nha ::(',
+    question: 'Bảo bic ấy sáng suốt mà :))',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu tlinhh nhiều nhiều 😘😘',
-    messDesc: 'làmm ngyeuu bảoo nha.',
+    mess: 'hãy vui lên hãy là chính mình',
+    messDesc: 'Hứa roi đó.',
     btnAccept: 'Okiiiii lun <3'
 }
